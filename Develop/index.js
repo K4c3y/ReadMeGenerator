@@ -103,7 +103,7 @@ function createReadMe(answers) {
     ## Usage
     ${answers.usage}
     ## License
-    Licensed under ${answers.license}
+    Licensed by ${answers.license}
     ## Contributing
     ${answers.contributing}
     ## Test
@@ -112,9 +112,6 @@ function createReadMe(answers) {
     ${answers.installation}
     ## Usage
     ${answers.usage}
-    ## License
-    Licensed by 
-    ${answers.license}
     ## Contributing
     ${answers.contributing}
     ## Tests

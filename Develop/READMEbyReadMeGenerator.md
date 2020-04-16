@@ -8,7 +8,6 @@
     3. [License](#License)
     4. [Contributing](#Contributing)
     5. [Tests](#Tests)
-    6. [Questions](#Questions)
    ## Installation
    1. Pull Repo from GitHub 2. Init Node 3. Install all npms with npm install REQUIRED NPMS - npm i axios , npm i inquirer 
    ## Usage
