@@ -128,7 +128,7 @@ function createReadMe(answers) {
 // step 3 ask for github username
 function promptUsername() {
     return inquirer.prompt({
-        message: 'Enter Github username?',
+        message: 'Enter Github username',
         name: 'username'
     })
 }
