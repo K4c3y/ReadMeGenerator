@@ -87,8 +87,7 @@ function promptQuestions() {
 function createReadMe(answers) {
   
    
-    return `
-    ## ${answers.title}
+    return `## ${answers.title}
     ![](${badgeImage})
     ## Description
     ${answers.description}
@@ -109,13 +108,12 @@ function createReadMe(answers) {
     ${answers.contributing}
     ## Test
     ${answers.tests}
-    ##[Questions](#Questions)
     ## Installation
     ${answers.installation}
     ## Usage
     ${answers.usage}
     ## License
-    Licensed under 
+    Licensed by 
     ${answers.license}
     ## Contributing
     ${answers.contributing}
