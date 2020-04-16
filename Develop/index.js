@@ -97,6 +97,7 @@ function createReadMe(answers) {
     3. [License](#License)
     4. [Contributing](#Contributing)
     5. [Tests](#Tests)
+    6. [Email of author](#Email)
     ## Installation
     ${answers.installation}
     ## Usage
@@ -106,14 +107,6 @@ function createReadMe(answers) {
     ## Contributing
     ${answers.contributing}
     ## Test
-    ${answers.tests}
-    ## Installation
-    ${answers.installation}
-    ## Usage
-    ${answers.usage}
-    ## Contributing
-    ${answers.contributing}
-    ## Tests
     ${answers.tests}
     ## Email: ${githubEmail}
     [Profile Image](${githubPic})`
