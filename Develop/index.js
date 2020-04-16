@@ -26,8 +26,7 @@ const axios = require('axios')
 const inquirer = require('inquirer')
 
 
-// Define a global variable for the avatar URL
-let avatarURL = ''
+
 
 
 // questions to pass through inquirer
