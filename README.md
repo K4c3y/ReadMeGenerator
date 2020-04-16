@@ -4,9 +4,8 @@ Use this tool to always build a nice read me document for your Github projects.
 Thanks for checking out this neat tool! This tool prompts you to never miss anything that should be a good readme file! 
 
 This readme file was actually created with this tool! Besides the screenshots 
-
-    ## ReadMe Generator
-    ![](https://img.shields.io/github/followers/k4c3y?style=social)
+  ## ReadMe Generator
+   ![](https://img.shields.io/github/followers/k4c3y?style=social)
     ## Description
     Create the best readMe files for your Git Repos! 
     ## Table of Contents
@@ -40,4 +39,3 @@ This readme file was actually created with this tool! Besides the screenshots
     No Examples at this time. 
     ## Email: kaceychurchill@gmail.com
     [Profile Image](https://avatars2.githubusercontent.com/u/60406150?v=4)
-    
