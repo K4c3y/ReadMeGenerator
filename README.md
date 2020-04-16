@@ -14,7 +14,6 @@ This Read me was actually created by the readme tool without the screenshots
     3. [License](#License)
     4. [Contributing](#Contributing)
     5. [Tests](#Tests)
-    6. [Questions](#Questions)
    ## Installation
    1. Pull Repo from GitHub 2. Init Node 3. Install all npms with npm install REQUIRED NPMS - npm i axios , npm i inquirer 
    ## Usage
@@ -25,7 +24,6 @@ This Read me was actually created by the readme tool without the screenshots
   https://www.npmjs.com/package/inquirer https://www.npmjs.com/package/axios https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA https://stackedit.io/app# https://nodejs.org/en/docs/
    ## Test
     No Examples at this time. 
-   ##[Questions](#Questions)
    ## Installation
    1. Pull Repo from GitHub 2. Init Node 3. Install all npms with npm install REQUIRED NPMS - npm i axios , npm i inquirer 
    ## Usage
