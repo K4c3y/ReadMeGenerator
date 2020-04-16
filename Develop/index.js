@@ -68,8 +68,8 @@ const questions = [{
 
     },
     {
-        message: 'Add tests examples with instructions',
-        name: 'tests',
+        message: 'Add examples  with instructions',
+        name: 'examples',
         type: 'input',
         default: 'Test examples'
 
@@ -97,7 +97,7 @@ function createReadMe(answers) {
     3. [License](#License)
     4. [Contributing](#Contributing)
     5. [Tests](#Tests)
-    6. [Email of author](#Email)
+    6. [Email of Author](#Email)
     ## Installation
     ${answers.installation}
     ## Usage
@@ -106,8 +106,8 @@ function createReadMe(answers) {
     Licensed under ${answers.license}
     ## Contributing
     ${answers.contributing}
-    ## Test
-    ${answers.tests}
+    ## Examples
+    ${answers.examples}
     ## Email: ${githubEmail}
     [Profile Image](${githubPic})`
 }
