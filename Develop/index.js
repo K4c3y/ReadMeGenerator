@@ -97,13 +97,12 @@ function createReadMe(answers) {
     3. [License](#License)
     4. [Contributing](#Contributing)
     5. [Tests](#Tests)
-    6. [Questions](#Questions)
     ## Installation
     ${answers.installation}
     ## Usage
     ${answers.usage}
     ## License
-    Licensed by ${answers.license}
+    Licensed under ${answers.license}
     ## Contributing
     ${answers.contributing}
     ## Test
