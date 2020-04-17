@@ -11,7 +11,7 @@
    ## Installation
    1. Pull Repo from GitHub 2. Init Node 3. Install all npms with npm install REQUIRED NPMS - npm i axios , npm i inquirer 
    ## Usage
-   1. Open Terminal 2. Init Node 3. Run program by entering node index 4. Follow the Prompts and let the tool do the rest. 
+   1. Open Terminal 2. Init Node 3. Run program by entering  CDing to Develop then run node index in terminal 4. Follow the Prompts and let the tool do the rest. 
    ## License
    Licensed under Apache
    ## Contributing
